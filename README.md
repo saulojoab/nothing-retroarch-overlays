@@ -1,6 +1,6 @@
 # <h1 align="center"><samp>Nothing Retroarch Overlays</samp></h1>
 
-<span align="center"><samp>Retroarch overlays I custom made for my Nothing Phone 2</samp></span>
+<div align="center"><samp>Retroarch overlays I custom made for my Nothing Phone 2</samp></div>
 
 ## <samp> What</samp>
 
